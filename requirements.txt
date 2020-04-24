@@ -12,7 +12,7 @@ Flask-Login==0.4.1
 Flask-OpenID==1.2.5
 Flask-SocketIO==2.9.2
 Flask-SQLAlchemy==2.3.2
-nltk==3.2.5
+nltk==3.4.5
 json-merge-patch==0.2
 jsondiff==1.1.1
 jsonpickle==1.1
