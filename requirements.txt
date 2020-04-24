@@ -2,7 +2,7 @@ SQLAlchemy==1.2.18
 Cython
 wheel
 plotly==2.0.15
-Flask==0.12.4
+Flask==1.0
 Flask-Admin==1.5.2
 Flask-AppBuilder==1.12.1
 Flask-Babel==0.12.2
