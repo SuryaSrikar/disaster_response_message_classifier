@@ -3,6 +3,7 @@ Cython
 wheel
 plotly==2.0.15
 Flask==0.12.4
+Flask==0.12.4
 Flask-AppBuilder==1.12.1
 Flask-Babel==0.12.2
 Flask-Bcrypt==0.7.1
